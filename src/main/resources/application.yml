@@ -1,8 +1,8 @@
 #spring:
 #  datasource:
 #    username: root
-#    password: password
-#    url: jdbc:mysql://localhost:3306/javatechie
+#    password: root
+#    url: jdbc:mysql://localhost:3306/ravitech
 #    driver-class-name: com.mysql.cj.jdbc.Driver
 #  jpa:
 #    show-sql: true
